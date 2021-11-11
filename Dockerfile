@@ -1,6 +1,6 @@
 FROM debian:buster
 #FROM ubuntu:18.04
-LABEL maintainer="Colin Wilson colin@wyveo.com"
+LABEL maintainer="doh"
 
 # Let the container know that there is no tty
 ENV DEBIAN_FRONTEND noninteractive
